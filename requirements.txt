@@ -1,0 +1,15 @@
+IPython
+re
+nbformatos
+request
+os
+pandas
+numpy
+matplotlib
+seaborn
+numpy
+plotly
+pypalettes
+pulp
+mplsoccer
+itertools
