@@ -12,10 +12,9 @@ It aims to uncover trends, player performance patterns, and value insights to su
 
 ## Contents
 - `notebooks/fantasy_premier_league_24_25_analytic.ipynb`: main Notebook containing the full analysis
-- `data/raw/`: datasets exported from the FPL source
-- `data/processed/`: cleaned or transformed data used in analysis
+- `data/`: cleaned or transformed datasets used in analysis
 - `data/data_description.md`: documentation of dataset fields and structure
-- `outputs/insight_summary.txt`: key insights and findings from the analysis
+- `outputs/insight_summary.md`: key insights and findings from the analysis
 - `outputs/images/`: exported visualizations used to support conclusions
 - `requirements.txt`: list of Python packages required to run the notebook
 - `README.md`: project overview and usage guide
