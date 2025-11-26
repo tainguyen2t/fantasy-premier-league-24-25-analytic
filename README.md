@@ -3,6 +3,7 @@ This project presents an exploratory data analysis (EDA) of the **Fantasy Premie
 It aims to uncover trends, player performance patterns, and value insights to support better decision-making for FPL managers.
 
 <img src="outputs/images/4.1.-OUR-TEAM.png" width="600">
+
 ## Project objectives
 1. **EDA on player performance**: `points`, `value`, `selection` trends
 2. **Value-for-money analysis** (because budget is pain)
